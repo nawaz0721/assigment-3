@@ -1,0 +1,25 @@
+
+header{
+    background-color: rgb(253, 34, 34);
+    text-align: center;
+    padding: 10px;
+}
+a{
+    padding: 20px;
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+}
+img{
+    width:217px;
+    height:170px;
+    padding: 10px;
+}
+figcaption{
+    text-align: center;
+}
+table{
+    background-color: bisque;
+}
+body{
+    background-color: bisque;
+}

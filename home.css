@@ -1,0 +1,22 @@
+header{
+    background-color: rgb(253, 34, 34);
+    text-align: center;
+    padding: 10px;
+}
+a{
+    padding: 20px;
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+}
+img{
+    width: 600px; 
+}
+p{
+    margin-left: 620px;
+    margin-top:-400px ;
+    font-size: large;
+    background-color: rgb(255, 0, 221);
+}
+body{
+    background-color: bisque;
+}
